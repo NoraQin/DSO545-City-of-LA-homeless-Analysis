@@ -12,13 +12,13 @@ This report will introduce the main datasets our group used for this project, fo
                            
 ## 2、Dataset Description:
 #### 311_calls.csv (311 Calls)
-   311 request calls for homeless encampment from January 2017 to November 2017, including request source, address and status
+311 request calls for homeless encampment from January 2017 to November 2017, including request source, address and status
 #### homeless2016tract.csv (Homeless Count 2016)
-   Total homeless count in LA County by census tracts in 2016, including counts of homeless people in different age groups, different   types of places or shelters.
+Total homeless count in LA County by census tracts in 2016, including counts of homeless people in different age groups, different   types of places or shelters.
 #### homeless2017final.csv (Homeless Count 2017)
-   Total homeless count in LA County by census tracts in 2017, including counts of homeless people in different age groups, different   types of places or shelters.
+Total homeless count in LA County by census tracts in 2017, including counts of homeless people in different age groups, different   types of places or shelters.
 #### shelters.csv (Shelters)
-   A list of homeless shelters in LA, including name, location, hours, description and contact information
+A list of homeless shelters in LA, including name, location, hours, description and contact information
 #### crime.csv(Crime)
 A dataset contains crime information(Victim: homeless),like occured time, report time, victim_age,etc
 
