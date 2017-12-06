@@ -2,7 +2,7 @@
 
 
 
-## Introduction:
+## 1、Introduction:
 The goal of this project is to quantify need, demand, and potential impact of different
 homelessness intervention strategies by running geospatial analysis and predictive modeling on datasets provided by the City of LA. 
 The final deliverable is an online interactive dashboard that will track the current homelessness situation and the effects of existing and upcoming homelessness interventions. This dashboard will allow Mayor’s office staff to analyze data in a more holistic and standardized manner and facilitate the rapid deployment of resources and services.
@@ -10,7 +10,7 @@ This report will introduce the main datasets our group used for this project, fo
                        
                                                                                          
                            
-## Dataset Description:
+## 2、Dataset Description:
 #### 311_calls_w_CTs20171102134828.csv (311 Calls)
    311 request calls for homeless encampment from January 2017 to November 2017, including request source, address and status
 #### HC2016_Total_Counts_by_Census_Tract_LA_CoC_07132016.xlsx (Homeless Count 2016)
@@ -24,14 +24,14 @@ A dataset contains crime information(Victim: homeless),like occured time, report
 
 
 
-## Project on Github
+## 3、Project on Github
 #### Analysis on the dataset
 #### Recommendation 
 #### Interactive dashboard 
 
 
 
-## Instructions on using the Interactive dashboard
+## 4、Instructions on using the Interactive dashboard
 #### Create a Shiny project and keep all the files in the Dashboard folder in the project directory
 #### Make sure all the R packages in the libraray.R file are downloaded
 #### Load all the required packages and datasets by using libaray.R file
