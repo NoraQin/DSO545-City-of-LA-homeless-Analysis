@@ -26,9 +26,6 @@ A dataset contains crime information(Victim: homeless),like occured time, report
 
 ## Project on Github
 #### Analysis on the dataset
-Analysis on homeless count 
-Analysis on 311 call dataset 
-Analysis on Crime dataset
 #### Recommendation 
 #### Interactive dashboard 
 
