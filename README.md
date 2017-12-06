@@ -11,26 +11,26 @@ This report will introduce the main datasets our group used for this project, fo
                                                                                          
                            
 ## Dataset Description:
-### 311_calls_w_CTs20171102134828.csv (311 Calls)
+#### 311_calls_w_CTs20171102134828.csv (311 Calls)
    311 request calls for homeless encampment from January 2017 to November 2017, including request source, address and status
-### HC2016_Total_Counts_by_Census_Tract_LA_CoC_07132016.xlsx (Homeless Count 2016)
+#### HC2016_Total_Counts_by_Census_Tract_LA_CoC_07132016.xlsx (Homeless Count 2016)
    Total homeless count in LA County by census tracts in 2016, including counts of homeless people in different age groups, different         types of places or shelters.
-### Homeless-count-2017-results-by-census-tract.xlsx (Homeless Count 2017)
+#### Homeless-count-2017-results-by-census-tract.xlsx (Homeless Count 2017)
    Total homeless count in LA County by census tracts in 2017, including counts of homeless people in different age groups, different         types of places or shelters.
-### shelters_w_CTs20171102103122.csv (Shelters)
+#### shelters_w_CTs20171102103122.csv (Shelters)
    A list of homeless shelters in LA, including name, location, hours, description and contact information
-### crime.csv(Crime)
+#### crime.csv(Crime)
 A dataset contains crime information(Victim: homeless),like occured time, report time, victim_age,etc
 
 
 
 ## Project on Github
-### Analysis on the dataset
-  Analysis on homeless count 
-  Analysis on 311 call dataset 
-  Analysis on Crime dataset
-### Recommendation 
-### Interactive dashboard 
+#### Analysis on the dataset
+Analysis on homeless count 
+Analysis on 311 call dataset 
+Analysis on Crime dataset
+#### Recommendation 
+#### Interactive dashboard 
 
 
 
