@@ -34,5 +34,5 @@ A dataset contains crime information(Victim: homeless),like occured time, report
 ## 4、Instructions on using the Interactive dashboard
 #### Create a Shiny project and keep all the files in the Dashboard folder in the project directory
 #### Make sure all the R packages in the library.R file are downloaded
-#### Load all the required packages and datasets by using libaray.R file
+#### Load all the required packages and datasets by using library.R file
 #### Run the Shiny App using ui.R and server.R
