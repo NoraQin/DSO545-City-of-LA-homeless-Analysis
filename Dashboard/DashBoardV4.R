@@ -164,7 +164,7 @@ body <- dashboardBody(
     tabItem(
       tabName = "shelter",
       fluidRow(
-        box(leafletOutput(outputId = "map", width="100%", height="100%"),width = 12),
+        box(leafletOutput(outputId = "map"),width = 12),
         box(width = 8,
             selectInput(inputId = "shelterdata", 
                         label = "Choose a map to display",
